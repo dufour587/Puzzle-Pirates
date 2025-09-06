@@ -1,0 +1,16 @@
+# --- AI and Deep Learning ---
+# torch: The core deep learning framework.
+torch==2.4.1
+# torchvision: Provides datasets, models and image transformations for computer vision.
+torchvision==0.19.1
+# torch-directml: Provides GPU acceleration on Windows with AMD GPUs.
+# Note: This is the package for your Radeon RX 570.
+torch-directml==0.2.5.dev240914
+# ultralytics: The framework for training and using YOLO models.
+ultralytics==8.2.35
+# numpy: The fundamental package for scientific computing with Python.
+numpy==1.26.4
+# onnxruntime: A high-performance inference engine for ONNX models.
+onnxruntime==1.18.0
+# onnxruntime-directml: Provides the DmlExecutionProvider for ONNX Runtime.
+onnxruntime-directml==1.18.0

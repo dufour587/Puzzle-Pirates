@@ -1,0 +1,9 @@
+# requirements.txt - The Master-Class Dependency Manifest
+# This file lists all the Python packages required for the BilgeBot project.
+# All dependencies are pinned to a specific version to ensure reproducible builds.
+# To install all dependencies, run: pip install -r requirements.txt
+
+-r core.txt
+-r win_dependencies.txt
+-r vision.txt
+-r ai_dependencies.txt

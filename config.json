@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "click": {
+    "offset_x": -22,
+    "offset_y": -22,
+    "double_click": false,
+    "scale_x": 0.904,
+    "scale_y": 0.9036
+  },
+  "window": {
+    "title": "Puzzle Pirates",
+    "hwnd": 0
+  },
+  "runtime": {
+    "lock_cursor_during_moves": true,
+    "background_sims": 7,
+    "fps": 10,
+    "auto_play": true
+  },
+  "roi": {
+    "board": {
+      "x": 890,
+      "y": 223,
+      "w": 271,
+      "h": 542
+    },
+    "hud": {
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0
+    },
+    "status": {
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0
+    },
+    "ship_right": {
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0
+    },
+    "ship_lower": {
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0
+    }
+  },
+  "paths": {
+    "output_root": "dataset",
+    "models_dir": "models"
+  }
+}

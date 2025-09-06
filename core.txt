@@ -1,0 +1,11 @@
+# --- Core Dependencies ---
+# cerberus: Provides schema validation for configuration files.
+cerberus==1.3.4
+# psutil: Cross-platform library for retrieving process and system information.
+psutil==5.9.5
+# PySimpleGUI: The GUI framework for the main application.
+# Note: The codebase has been refactored to use Tkinter, but PySimpleGUI is kept for compatibility with older UIs.
+PySimpleGUI==5.0.8.3
+# numba: The high-performance JIT compiler for Python.
+# The required LLVM components are bundled into the llvmlite wheel.
+numba==0.59.1

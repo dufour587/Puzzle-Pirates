@@ -1,0 +1,9 @@
+# --- Windows-Specific Dependencies ---
+# pywin32: Provides access to many of the Windows APIs, including COM support.
+pywin32==306
+# d3dshot: A high-performance screen capturing library for Windows.
+bettercam==1.0.0
+# dxcam: A high-performance screen capturing library for Windows that uses DXGI.
+dxcam==0.0.5
+# keyboard: A library for global hotkeys and keyboard events.
+keyboard==0.13.5
